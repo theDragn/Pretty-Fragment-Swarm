@@ -1,0 +1,9 @@
+{
+	"id":"prettyfragment",
+	"name":"Pretty Fragment Swarm",
+	"author":"theDragn",
+	"version":{ "major": '1', "minor": '0', "patch": '0' },
+	"description":"Removes the messy hull overlay from the Fragment Swarm hullmod.",
+	"gameVersion":"0.98a-RC7",
+	"jars":["jars/PrettyFragment.jar"]
+}

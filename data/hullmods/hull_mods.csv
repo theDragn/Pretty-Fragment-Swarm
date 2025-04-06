@@ -1,0 +1,7 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+# threat stuff,,,,,,,,,,,,,,,,,,,
+Fragment Swarm,fragment_swarm,,,,"codex_unlockable, fragment, no_drop_salvage","Weapons, Special",30000,,,,6,12,18,30,data.hullmods.PrettyFragmentSwarmHullmod,"A swarm of Threat fragments roils around the ship, providing a regenerating supply of fragments for fragment-based weapons.
+
+The base number of fragments is %s/%s/%s/%s, and replacement fragments are launched %s/%s/%s/%s times a second, depending on hull size.
+
+This hullmod is required for fragment weapons to function, if the hullmod is not present or there are not enough fragments in the swarm, fragment weapons will be disabled.",A swarm of Threat fragments roils around the ship.,Reduces maximum combat readiness by %s and increases the maintenance cost by %s.,graphics/hullmods/fragment_swarm.png
